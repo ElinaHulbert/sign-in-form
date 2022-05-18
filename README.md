@@ -1,4 +1,6 @@
 # A sign in form created with Bootstrap 5 in React App
+##### :clock1130: Date: 
+March 2022
 ##### :muscle: What was my motivation?
 I was already familiar with Bootstrap 5 but never used it together with React. And I had an extra half an hour on my way home :)
 ##### :books: What did I learn?
